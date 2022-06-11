@@ -1,0 +1,43 @@
+/* Media queries */
+
+/* 
+
+For screen sizes of 650px and above
+
+*/
+
+@media screen and (min-width: 40.625em) {
+  .primary_description {
+    margin: 0 auto;
+    max-width: 62rem;
+  }
+
+  .feature {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/*  
+
+For screen sizes of 1024px and above
+
+*/
+@media screen and (min-width: 64em) {
+  .container {
+    max-width: 130rem;
+  }
+
+  .feature {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .karma {
+    grid-row: 2;
+    grid-column: 2/3;
+  }
+
+  .calculator,
+  .supervisor {
+    transform: translateY(50%);
+  }
+}
