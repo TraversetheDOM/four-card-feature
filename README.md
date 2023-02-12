@@ -34,8 +34,8 @@ _A screenshot showing the view on a mobile_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/four-card-feature)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/four-card-feature/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/four-card-feature)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/four-card-feature/)
 
 ## My process
 
