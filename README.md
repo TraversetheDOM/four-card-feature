@@ -34,8 +34,8 @@ _A screenshot showing the view on a mobile_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/four-card-feature)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/four-card-feature/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/four-card-feature)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/four-card-feature/)
 
 ## My process
 
@@ -100,6 +100,6 @@ I will keep doing more projects in the future to test my css and html skills.
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
